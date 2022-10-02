@@ -1,3 +1,1 @@
-setuptools~=65.3.0
-cryptomus~=1.0.6
 requests~=2.26.0
