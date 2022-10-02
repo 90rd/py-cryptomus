@@ -4,7 +4,7 @@ Python SDK module for working with the Cryptomus API
 
 ## Installation and connection
 
-PyPi derictory - [Link](https://pypi.org/project/cryptomus/)
+PyPi derictory - [Tap Here](https://pypi.org/project/cryptomus/)
 
 Installation using [pip](https://pip.pypa.io/en/stable/installation/):
 
